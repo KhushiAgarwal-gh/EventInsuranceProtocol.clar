@@ -67,15 +67,9 @@ The EventInsurance Protocol has extensive potential for growth and enhancement:
 
 *Contract deployment information will be added here once deployed to mainnet/testnet*
 
-### Mainnet Deployment
-- **Contract Address**: [To be added]
-- **Deployment Block**: [To be added]
-- **Deployment Date**: [To be added]
 
-### Testnet Deployment
-- **Contract Address**: ST2EA7NMNM0AH2ZV75MA960JG2AF9VP1WRX1ZT351.EventInsuranceProtocol
-- **Deployment Block**: [To be added]
-- **Deployment Date**: [To be added]
+
+
 
 ### Contract Functions
 The protocol implements two core functions:
@@ -108,11 +102,7 @@ To interact with the EventInsurance Protocol:
 
 ### Support & Documentation
 
-For technical documentation, integration guides, and support:
-- **Documentation**: [To be added]
-- **GitHub Repository**: [To be added]
-- **Discord Community**: [To be added]
-- **Email Support**: [To be added]
+
 
 ---
 ### contract details
