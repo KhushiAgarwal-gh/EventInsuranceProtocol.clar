@@ -115,6 +115,10 @@ For technical documentation, integration guides, and support:
 - **Email Support**: [To be added]
 
 ---
+### contract details
+ST2EA7NMNM0AH2ZV75MA960JG2AF9VP1WRX1ZT351.EventInsuranceProtocol
+<img width="1919" height="940" alt="image" src="https://github.com/user-attachments/assets/8e842d47-e543-413e-87bd-a00245268144" />
+
 
 
 *Built with ❤️ on Stacks blockchain using Clarity smart contracts*
