@@ -73,7 +73,7 @@ The EventInsurance Protocol has extensive potential for growth and enhancement:
 - **Deployment Date**: [To be added]
 
 ### Testnet Deployment
-- **Contract Address**: [To be added]
+- **Contract Address**: ST2EA7NMNM0AH2ZV75MA960JG2AF9VP1WRX1ZT351.EventInsuranceProtocol
 - **Deployment Block**: [To be added]
 - **Deployment Date**: [To be added]
 
@@ -115,6 +115,6 @@ For technical documentation, integration guides, and support:
 - **Email Support**: [To be added]
 
 ---
-<img width="991" height="475" alt="Screenshot 2025-08-26 103543" src="https://github.com/user-attachments/assets/fafac5de-9b25-48d6-aed5-65954f17d51c" />
+
 
 *Built with ❤️ on Stacks blockchain using Clarity smart contracts*
